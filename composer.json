@@ -1,5 +1,5 @@
 {
-  "name": "attybean/qtip2",
+  "name": "byggmann/qtip2",
   "title": "qTip2 - Pretty powerful tooltips",
   "description": "Introducing... qTip2. The second generation of the advanced qTip plugin for the ever popular jQuery framework.",
   "version": "dev-master",
@@ -8,7 +8,7 @@
   "main": "dist/jquery.qtip.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/attybean/qTip2.git"
+    "url": "git://github.com/byggmann/qTip2.git"
   },
   "keywords": [
     "tooltip",
@@ -20,7 +20,7 @@
     "simpletip"
   ],
   "bugs": {
-    "url": "https://github.com/attybean/qTip2/issues"
+    "url": "https://github.com/byggmann/qTip2/issues"
   },
   "licenses": [
     {
